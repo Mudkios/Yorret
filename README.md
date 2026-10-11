@@ -12,8 +12,8 @@
 
   <p align="center">
     <a href="#-features">Features</a> •
-    <a href="#-quick-start-guide">Quick Start</a> •
     <a href="#-system-requirements">Requirements</a> •
+    <a href="#-quick-start-guide">Quick Start</a> •
     <a href="#-credits--attributions">Credits</a> •
     <a href="#-copyright--license">License</a>
   </p>
