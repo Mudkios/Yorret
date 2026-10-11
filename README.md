@@ -69,6 +69,7 @@
 
 </div>
 <div align="center">
+  
 **If Mochi made you smile, a ⭐ helps a lot.**
   
   <a href="https://discord.com/users/741008454512017539" target="_blank">
