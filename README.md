@@ -67,6 +67,11 @@
   </p>
 
 </div>
-<div>
-  [![Discord](https://img.shields.io/badge/Discord-Add%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
+<div align="center">
+
+  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Add%20me%20on%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Add me on Discord" height="36" />
+  </a>
+
 </div>
+
