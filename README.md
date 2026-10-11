@@ -5,6 +5,7 @@
   # Yorret
 
   **A modern, lightweight multimedia downloader for Windows built entirely in Python.**
+
   ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)
   [![Built with Python](https://img.shields.io/badge/Language-Python%203-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   [![Powered by yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-red?logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
@@ -68,7 +69,8 @@
 
 </div>
 <div align="center">
-
+**If Mochi made you smile, a ⭐ helps a lot.**
+  
   <a href="https://discord.com/users/741008454512017539" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Add%20me%20on%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Add me on Discord" height="36" />
   </a>
