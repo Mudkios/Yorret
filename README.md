@@ -10,16 +10,6 @@
   [![Powered by yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-red?logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
   [![Powered by FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-green?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 
-  <p align="center">
-    <a href="#-features">Features</a> •
-    <a href="#-system-requirements">Requirements</a> •
-    <a href="#-quick-start-guide">Quick Start</a> •
-    <a href="#-credits--attributions">Credits</a> •
-    <a href="#-copyright--license">License</a>
-  </p>
-
-  <img src="Screenshots/ui_preview.png" alt="Yorret User Interface" width="850" />
-
 </div>
 
 ---
@@ -27,10 +17,15 @@
 ## ✨ Features
 
 - 📥 **Broad Multi-Platform Support:** Paste audio or video links directly from YouTube, Instagram, TikTok, Twitter/X, SoundCloud, and hundreds of other platforms.
+
 - 🪟 **Floating Picture-in-Picture Mini Queue:** Minimize the queue into a movable, floating widget so you can monitor download progress while multitasking, with a single button to return to the main interface.
+
 - 📋 **Fast Clipboard Pasting:** Paste links instantly with a dedicated button without having to focus and select input fields manually.
+
 - 📂 **Target Folder Selection & Storage Tracking:** Choose where downloads are saved while viewing live remaining disk space on your drive.
+
 - 📜 **Download History Logs:** Track every successful download or clear history entries whenever needed.
+
 - 🌓 **Theme Controls & Collapsible Sidebar:** Toggle light/dark views and show or hide side panels to keep your desktop uncluttered.
 
 ---
@@ -54,6 +49,21 @@
    Right-click `Yorret.zip` and choose **Extract All...** to unpack the files onto your drive.
 
 3. **▶️ Run the App**  
-   Open the extracted `Yorret` folder and launch:
-   ```text
-   Yorret.exe
+   Open the extracted `Yorret` folder and launch `Yorret.exe`
+
+
+## ⚖️ Copyright & Licenses
+
+  <p>
+    <strong>Yorret</strong> &copy; Mudkios. All rights reserved.
+  </p>
+
+  <p>
+    <strong>yt-dlp</strong> is released under the <a href="https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE">Unlicense / Public Domain</a>.
+  </p>
+
+  <p>
+    <strong>FFmpeg</strong> is licensed under the <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">GNU Lesser General Public License (LGPL) version 2.1 or later</a> (<a href="https://ffmpeg.org/legal.html">FFmpeg Legal &amp; Licensing</a>).
+  </p>
+
+</div>
