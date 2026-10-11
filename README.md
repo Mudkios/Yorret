@@ -67,3 +67,8 @@
   </p>
 
 </div>
+<div>
+  # Connect
+
+[![Discord](https://img.shields.io/badge/Discord-Add%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/YOUR_INVITE_CODE](https://discord.com/users/741008454512017539))
+</div>
