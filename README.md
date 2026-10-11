@@ -70,7 +70,7 @@
 </div>
 <div align="center">
   
-**If Mochi made you smile, a ⭐ helps a lot.**
+**If Yorret made you smile, a ⭐ helps a lot.**
   
   <a href="https://discord.com/users/741008454512017539" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Add%20me%20on%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Add me on Discord" height="36" />
