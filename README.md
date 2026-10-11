@@ -5,7 +5,7 @@
   # Yorret
 
   **A modern, lightweight multimedia downloader for Windows built entirely in Python.**
-
+  ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)
   [![Built with Python](https://img.shields.io/badge/Language-Python%203-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   [![Powered by yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-red?logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
   [![Powered by FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-green?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
