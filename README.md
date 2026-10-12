@@ -64,7 +64,7 @@
   </p>
 
   <p>
-    <strong>FFmpeg</strong> is licensed under the <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">GNU Lesser General Public License (LGPL) version 2.1 or later</a> (<a href="https://ffmpeg.org/legal.html">FFmpeg Legal &amp; Licensing</a>).
+    <strong>FFmpeg</strong> is licensed under the <a href="https://ffmpeg.org/legal.html">FFmpeg Legal &amp; Licensing</a>.
   </p>
 
 </div>
